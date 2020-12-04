@@ -1,1 +1,2 @@
-Corso-Tree-School-Back-End-2020
+# Corso Back-End 2020 (Tree School)
+Esercizi svolti
